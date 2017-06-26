@@ -72,8 +72,8 @@
 
 ## Sam Landfried
 
-* Reflection Gist: https://gist.github.com/samlandfried/9c0ff1f655097c9b8cd2145f7de36be6
-* Sorting Suite Repo: https://github.com/samlandfried/jsSortingSuite
+* Reflection Gist: 
+* Sorting Suite Repo: 
 
 ## Sergey Lukayaneko
 
@@ -87,7 +87,7 @@
 
 ## Stephanie Bentley
 
-* Reflection Gist: https://gist.github.com/slague
+* Reflection Gist:https://gist.github.com/slague/6e24ac3f1cddbd22513f2e8969a02da7
 * Sorting Suite Repo: https://github.com/slague/sorting-suite
 
 ## Valerie Trudell
